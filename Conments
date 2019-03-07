@@ -1,0 +1,14 @@
+# When you Do import your parkages, make syer you know what for. or make sure you use them
+e.g. import matplotlib.font_manager as fm /from your natebook.
+
+# Make a markdown comment for every cell you created. make sure you explain everything/action you do.
+
+# Markdowns are started in new Cells. It's when you try to explain eveything. But when you are coding or defining a Function
+you can definitely make a comment in the same Cell.
+
+# please state reasons for making the "print(df.columns.values)". because I don't get it.
+
+# Nice Visualizations. I think you should Just make sure that you have explanations for why youi do what you do.. I see a plot graph 
+there, but I don't now what the mean.  
+
+Great Work, plaese Fix the Changes. ASAP
